@@ -1,3 +1,5 @@
+[](https://github.com/kev374k/kev374k/blob/main/chat.svg)]
+
 - 👋 Hi, I’m @kev374k, and I study Data Science at University of California, San Diego
 - 👀 I’m interested in Basketball and Games!
 - 🌱 I’m currently learning Python, Java, SQL, R, and HTML
