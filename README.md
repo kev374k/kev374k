@@ -61,3 +61,7 @@ You can click the Preview link to take a look at your changes.
  </tr>
 </table>
 <br><br>
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/kev374k/kev374k/output/github-contribution-grid-snake-dark.svg">
+</picture>
