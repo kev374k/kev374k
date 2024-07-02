@@ -4,7 +4,7 @@
 - 👀 I’m interested in Basketball and Games!
 - 🌱 I’m currently learning Python, Java, SQL, R, and HTML
 - 💞️ I’m looking to collaborate on any cool Python Projects!
-- 📫 Reach me @ <a target = "_blank" href="https://www.instagram.com/kl.wong1/" target="Instagram">kl.wong1</a> on Instagram or <a href="https://twitter.com/justkevin999" target = "_blank">justkevin999</a> on Twitter
+- 📫 Reach me @ <a target = "_blank" href="https://www.instagram.com/kl.wong1/" target="Instagram">kl.wong1</a> on Instagram,<a href="https://twitter.com/justkevin999" target = "_blank">justkevin999</a> on Twitter, or at my email @ kevinwongadmissions@gmail.com
 - 📽️ Check out my projects:
   - [League of Legends Competitive Analysis](https://kev374k.github.io/lol_competitive_analysis)
   - [Neural Networks from Scratch](https://github.com/kev374k/neural_networks)
