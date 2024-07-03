@@ -1,9 +1,8 @@
 ![](https://github.com/kev374k/kev374k/blob/main/chat.svg)
 
 - 👋 Hi, I’m @kev374k, and I study Data Science at University of California, San Diego
-- 👀 I’m interested in Basketball and Games!
-- 🌱 I’m currently learning Python, Java, SQL, R, and HTML
-- 💞️ I’m looking to collaborate on any cool Python Projects!
+- 👀 I’m interested in Machine Learning, Algorithms, and Neural Networks
+- 🌱 I’m currently learning Python, Java, and SQL!
 - 📫 Reach me <a target = "_blank" href="https://www.instagram.com/itsskevinwong/" target="Instagram">@itskevinwong</a> on Instagram,<a href="https://twitter.com/justkevin999" target = "_blank">@justkevin999</a> on Twitter, or at my email at kevinwongadmissions@gmail.com
 - 📽️ Check out my projects:
   - [League of Legends Competitive Analysis](https://kev374k.github.io/lol_competitive_analysis)
