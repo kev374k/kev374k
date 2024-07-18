@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Python, Java, and SQL!
 - 📫 Reach me <a target = "_blank" href="https://www.instagram.com/itsskevinwong/" target="Instagram">@itskevinwong</a> on Instagram,<a href="https://twitter.com/justkevin999" target = "_blank">@justkevin999</a> on Twitter, or at my email at kevinwongadmissions@gmail.com
 - 📽️ Check out my projects:
+  - [Recreating GPT-2 From Scratch](https://github.com/kev374k/gpt)
   - [League of Legends Competitive Analysis](https://kev374k.github.io/lol_competitive_analysis)
   - [Neural Networks from Scratch](https://github.com/kev374k/neural_networks)
 <!---
