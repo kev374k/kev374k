@@ -7,6 +7,7 @@
 - 📽️ Check out my projects:
   - [Recreating GPT-2 From Scratch](https://github.com/kev374k/gpt)
   - [League of Legends Competitive Analysis](https://kev374k.github.io/lol_competitive_analysis)
+  - [Visualizing Moore's Law](https://ahy123.github.io/Visualizing_Moores_Law/)
   - [Neural Networks from Scratch](https://github.com/kev374k/neural_networks)
 <!---
 kev374k/kev374k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
